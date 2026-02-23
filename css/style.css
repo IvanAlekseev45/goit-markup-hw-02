@@ -48,6 +48,11 @@ ul {
   color: #434455;
   font-style: normal;
 }
+.mailto {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
 
 .header-address a:focus,
 .header-address a:hover {
